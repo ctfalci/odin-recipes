@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+body{
+    background-color: rgb(181, 241, 189);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+h1
+{
+    color: dodgerblue;
+    background-color: blanchedalmond;
+}
+h2{
+    color: rgb(225, 226, 168);
+    background-color: #9b9807;
+}
+h4{
+    color: rgb(225, 226, 168);
+    background-color: rgb(0, 60, 139);
+}
+h4{
+    color: rgb(225, 226, 168);
+    background-color: rgb(0, 139, 12);
+}
+
+p{
+text-align: justify;    
+}
